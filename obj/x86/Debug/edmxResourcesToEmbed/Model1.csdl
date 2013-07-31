@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CheeseWorldTestModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="CheeseWorldTestEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="sysdiagrams" EntityType="CheeseWorldTestModel.sysdiagram" />
+    <EntitySet Name="tblCheese" EntityType="CheeseWorldTestModel.tblCheese" />
+    <EntitySet Name="tblMeats" EntityType="CheeseWorldTestModel.tblMeat" />
+    <EntitySet Name="tblMiscs" EntityType="CheeseWorldTestModel.tblMisc" />
+    <EntitySet Name="tblProducts" EntityType="CheeseWorldTestModel.tblProduct" />
+    <EntitySet Name="tblTransactions" EntityType="CheeseWorldTestModel.tblTransaction" />
+    <EntitySet Name="tblTransactionItems" EntityType="CheeseWorldTestModel.tblTransactionItem" />
+    <AssociationSet Name="FK_tblProduct_tblCheese" Association="CheeseWorldTestModel.FK_tblProduct_tblCheese">
+      <End Role="tblCheese" EntitySet="tblCheese" />
+      <End Role="tblProduct" EntitySet="tblProducts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblProduct_tblMeat" Association="CheeseWorldTestModel.FK_tblProduct_tblMeat">
+      <End Role="tblMeat" EntitySet="tblMeats" />
+      <End Role="tblProduct" EntitySet="tblProducts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblProduct_tblMisc" Association="CheeseWorldTestModel.FK_tblProduct_tblMisc">
+      <End Role="tblMisc" EntitySet="tblMiscs" />
+      <End Role="tblProduct" EntitySet="tblProducts" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblTransactionItem_tblProduct" Association="CheeseWorldTestModel.FK_tblTransactionItem_tblProduct">
+      <End Role="tblProduct" EntitySet="tblProducts" />
+      <End Role="tblTransactionItem" EntitySet="tblTransactionItems" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblTransactionItem_tblTransaction" Association="CheeseWorldTestModel.FK_tblTransactionItem_tblTransaction">
+      <End Role="tblTransaction" EntitySet="tblTransactions" />
+      <End Role="tblTransactionItem" EntitySet="tblTransactionItems" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Type="String" Name="name" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="principal_id" Nullable="false" />
+    <Property Type="Int32" Name="diagram_id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="version" />
+    <Property Type="Binary" Name="definition" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="tblCheese">
+    <Key>
+      <PropertyRef Name="CheeseID" />
+    </Key>
+    <Property Type="Int32" Name="CheeseID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="CheeseName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="Price" Precision="18" Scale="2" />
+    <Property Type="String" Name="description" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Type="Int32" Name="cheeseGroup" />
+    <NavigationProperty Name="tblProducts" Relationship="CheeseWorldTestModel.FK_tblProduct_tblCheese" FromRole="tblCheese" ToRole="tblProduct" />
+    <Property Type="Decimal" Name="cheeseQunatity" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="tblMeat">
+    <Key>
+      <PropertyRef Name="MeatID" />
+    </Key>
+    <Property Type="Int32" Name="MeatID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="MeatName" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="Price" Precision="18" Scale="2" />
+    <Property Type="String" Name="description" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tblProducts" Relationship="CheeseWorldTestModel.FK_tblProduct_tblMeat" FromRole="tblMeat" ToRole="tblProduct" />
+  </EntityType>
+  <EntityType Name="tblMisc">
+    <Key>
+      <PropertyRef Name="MiscID" />
+    </Key>
+    <Property Type="String" Name="MiscProd" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="MiscID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="tblProducts" Relationship="CheeseWorldTestModel.FK_tblProduct_tblMisc" FromRole="tblMisc" ToRole="tblProduct" />
+  </EntityType>
+  <EntityType Name="tblProduct">
+    <Key>
+      <PropertyRef Name="PoductID" />
+    </Key>
+    <Property Type="Int32" Name="PoductID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="ProductType" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Int32" Name="MeatID" />
+    <Property Type="Int32" Name="CheeseID" />
+    <Property Type="Int32" Name="MiscID" />
+    <NavigationProperty Name="tblCheese" Relationship="CheeseWorldTestModel.FK_tblProduct_tblCheese" FromRole="tblProduct" ToRole="tblCheese" />
+    <NavigationProperty Name="tblMeat" Relationship="CheeseWorldTestModel.FK_tblProduct_tblMeat" FromRole="tblProduct" ToRole="tblMeat" />
+    <NavigationProperty Name="tblMisc" Relationship="CheeseWorldTestModel.FK_tblProduct_tblMisc" FromRole="tblProduct" ToRole="tblMisc" />
+    <NavigationProperty Name="tblTransactionItems" Relationship="CheeseWorldTestModel.FK_tblTransactionItem_tblProduct" FromRole="tblProduct" ToRole="tblTransactionItem" />
+  </EntityType>
+  <EntityType Name="tblTransaction">
+    <Key>
+      <PropertyRef Name="TransactionID" />
+    </Key>
+    <Property Type="Int32" Name="TransactionID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="DateTime" Name="TransactionDate" />
+    <NavigationProperty Name="tblTransactionItems" Relationship="CheeseWorldTestModel.FK_tblTransactionItem_tblTransaction" FromRole="tblTransaction" ToRole="tblTransactionItem" />
+  </EntityType>
+  <EntityType Name="tblTransactionItem">
+    <Key>
+      <PropertyRef Name="TransactionItemID" />
+    </Key>
+    <Property Type="Int32" Name="TransactionItemID" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="TransactionID" />
+    <Property Type="Int32" Name="ProductID" />
+    <NavigationProperty Name="tblProduct" Relationship="CheeseWorldTestModel.FK_tblTransactionItem_tblProduct" FromRole="tblTransactionItem" ToRole="tblProduct" />
+    <NavigationProperty Name="tblTransaction" Relationship="CheeseWorldTestModel.FK_tblTransactionItem_tblTransaction" FromRole="tblTransactionItem" ToRole="tblTransaction" />
+  </EntityType>
+  <Association Name="FK_tblProduct_tblCheese">
+    <End Type="CheeseWorldTestModel.tblCheese" Role="tblCheese" Multiplicity="0..1" />
+    <End Type="CheeseWorldTestModel.tblProduct" Role="tblProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblCheese">
+        <PropertyRef Name="CheeseID" />
+      </Principal>
+      <Dependent Role="tblProduct">
+        <PropertyRef Name="CheeseID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblProduct_tblMeat">
+    <End Type="CheeseWorldTestModel.tblMeat" Role="tblMeat" Multiplicity="0..1" />
+    <End Type="CheeseWorldTestModel.tblProduct" Role="tblProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMeat">
+        <PropertyRef Name="MeatID" />
+      </Principal>
+      <Dependent Role="tblProduct">
+        <PropertyRef Name="MeatID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblProduct_tblMisc">
+    <End Type="CheeseWorldTestModel.tblMisc" Role="tblMisc" Multiplicity="0..1" />
+    <End Type="CheeseWorldTestModel.tblProduct" Role="tblProduct" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblMisc">
+        <PropertyRef Name="MiscID" />
+      </Principal>
+      <Dependent Role="tblProduct">
+        <PropertyRef Name="MiscID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblTransactionItem_tblProduct">
+    <End Type="CheeseWorldTestModel.tblProduct" Role="tblProduct" Multiplicity="0..1" />
+    <End Type="CheeseWorldTestModel.tblTransactionItem" Role="tblTransactionItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblProduct">
+        <PropertyRef Name="PoductID" />
+      </Principal>
+      <Dependent Role="tblTransactionItem">
+        <PropertyRef Name="ProductID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblTransactionItem_tblTransaction">
+    <End Type="CheeseWorldTestModel.tblTransaction" Role="tblTransaction" Multiplicity="0..1" />
+    <End Type="CheeseWorldTestModel.tblTransactionItem" Role="tblTransactionItem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblTransaction">
+        <PropertyRef Name="TransactionID" />
+      </Principal>
+      <Dependent Role="tblTransactionItem">
+        <PropertyRef Name="TransactionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

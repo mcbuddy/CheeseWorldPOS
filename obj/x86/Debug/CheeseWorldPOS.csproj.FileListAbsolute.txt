@@ -1,0 +1,119 @@
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.Properties.Resources.resources
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.pdb
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.exe
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.pdb
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmTransaction_Home.resources
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmLogin.resources
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmQty.resources
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorld_TestDatabase.accdb
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe.config
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmPayment.resources
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe.config
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.exe
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.pdb
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorldTest.mdf
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorldTest_log.ldf
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorld_TestDatabase.accdb
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.pdb
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmLogin.resources
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmTransaction_Home.resources
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmPayment.resources
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmQty.resources
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.Properties.Resources.resources
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmCheese_home.resources
+D:\Project\Senior Project\cheese-world-pos-system\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.csproj.GenerateResource.Cache
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorld_Database.mdf
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorld_Database_log.ldf
+C:\CheeseWorld_POS\cheese-world-pos-system\CheeseWorldPOS\bin\Debug\CheeseWorldTest.mdf
+\\psf\Home\Desktop\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe.config
+\\psf\Home\Desktop\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.exe
+\\psf\Home\Desktop\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.pdb
+\\psf\Home\Desktop\CheeseWorldPOS\bin\Debug\CheeseWorld_Database.mdf
+\\psf\Home\Desktop\CheeseWorldPOS\bin\Debug\CheeseWorld_Database_log.ldf
+\\psf\Home\Desktop\CheeseWorldPOS\bin\Debug\CheeseWorld_TestDatabase.accdb
+\\psf\Home\Desktop\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe
+\\psf\Home\Desktop\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.pdb
+\\psf\Home\Desktop\CheeseWorldPOS\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Desktop\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmLogin.resources
+\\psf\Home\Desktop\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmTransaction_Home.resources
+\\psf\Home\Desktop\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmPayment.resources
+\\psf\Home\Desktop\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmQty.resources
+\\psf\Home\Desktop\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.Properties.Resources.resources
+\\psf\Home\Desktop\CheeseWorldPOS\obj\x86\Debug\GenerateResource.read.1.tlog
+\\psf\Home\Desktop\CheeseWorldPOS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe.config
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.exe
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.pdb
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\bin\Debug\CheeseWorld_TestDatabase.accdb
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.pdb
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmLogin.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmTransaction_Home.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmPayment.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmQty.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.Properties.Resources.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe.config
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.exe
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.pdb
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\bin\Debug\CheeseWorld_TestDatabase.accdb
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.pdb
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmLogin.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmTransaction_Home.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmPayment.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmQty.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.Properties.Resources.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmCoupon.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmDiscount.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmManagerFuntions.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frm_Add_Item.resources
+C:\CheeseWorld_POS\CheeseWorld_POS_local\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.SalesReport.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe.config
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.exe
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.pdb
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\bin\Debug\CheeseWorld_TestDatabase.accdb
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.pdb
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmCoupon.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmDiscount.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmLogin.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmManagerFuntions.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.SalesReport.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmTransaction_Home.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmPayment.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmQty.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frm_Add_Item.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.Properties.Resources.resources
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Manzana2\Downloads\CheeseWorldPOS_6-10\CheeseWorldPOS_5-20\CheeseWorldPOS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe.config
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.exe
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.pdb
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\bin\Debug\CheeseWorld_TestDatabase.accdb
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.exe
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\bin\Debug\CheeseWorldPOS.pdb
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmCoupon.resources
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmDiscount.resources
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmLogin.resources
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmManagerFuntions.resources
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.SalesReport.resources
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmTransaction_Home.resources
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmPayment.resources
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frmQty.resources
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.frm_Add_Item.resources
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\CheeseWorldPOS.Properties.Resources.resources
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\budisugianto\Documents\Final version\CheeseWorldPOS\obj\x86\Debug\GenerateResource.write.1.tlog
